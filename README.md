@@ -5,10 +5,10 @@ The code included is written in python3 Jupyter Notebook
 
 dependecies:
 
-matplotlib
-numpy
-pandas
-scipy
+matplotlib<br>
+numpy<br>
+pandas<br>
+scipy<br>
 
 Anonymised csv data used is ziped and included as dhcp_opYcityX.zip
 
