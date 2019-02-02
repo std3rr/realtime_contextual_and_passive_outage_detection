@@ -1,0 +1,2 @@
+# realtime_contextual_and_passive_outage_detection
+Udacity capstone project for Machine Learning Engineer Nanodegree
